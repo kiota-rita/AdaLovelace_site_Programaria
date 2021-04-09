@@ -1,2 +1,2 @@
 # AdaLovelace_site_Programaria
-Web project for Programaria course
+Web project using HTML JS and CSS
